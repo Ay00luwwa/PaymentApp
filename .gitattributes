@@ -1,0 +1,9 @@
+.venv
+# Set default behavior to automatically normalize line endings
+* text=auto
+
+# Explicit line ending settings for specific file types
+*.py text eol=lf
+*.bat text eol=crlf
+*.sh text eol=lf
+
